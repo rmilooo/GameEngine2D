@@ -1,4 +1,6 @@
-package org.GameEngine2D;
+package org.GameEngine2D.Test;
+
+import org.GameEngine2D.GameObject;
 
 import java.awt.*;
 

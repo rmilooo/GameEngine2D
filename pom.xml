@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.GameEngine2D.GameEngine</mainClass>
+                            <mainClass>org.GameEngine2D.Test.Test</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
