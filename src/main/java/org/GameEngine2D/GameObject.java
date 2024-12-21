@@ -3,7 +3,7 @@ package org.GameEngine2D;
 import java.awt.*;
 
 public abstract class GameObject {
-    protected int x, y;wd
+    protected int x, y;
     protected int width, height;
 
     public GameObject(int x, int y, int width, int height) {
